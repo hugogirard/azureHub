@@ -1,0 +1,2 @@
+# azureHub
+Standard Azure Hub
